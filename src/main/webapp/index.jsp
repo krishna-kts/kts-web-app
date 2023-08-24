@@ -1,7 +1,8 @@
 <html>
 <body>
 <center>
-<h2>Welcome to KTS</h2>
+<h1>Welcome to KTS</h1>
+<h2>This is a sample Java Web Application<h2>
 </center>
 </body>
 </html>
